@@ -1,7 +1,7 @@
-# DairyBusinesssManagementSystem
+# KairuDairyBusinesssManagementSystem
 
 ##### By Stephen Kairu 
-### It is a description of my Dairy Business Management System.
+### It is a description of my Kairu Dairy Business Management System.
 
 ## Table of Content
 
@@ -13,7 +13,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is  a web application called the Dairy Business Management System. It allows the user to monitor dairy farm production and sales. It's also able to provide a report of daily, weekly, monthly or yearly income.</p>
+<p>This is  a web application called the Kairu Dairy Business Management System. It allows the user to monitor dairy farm production and sales. It's also able to provide a report of daily, weekly, monthly or yearly income.</p>
 
 ## Installation
 
