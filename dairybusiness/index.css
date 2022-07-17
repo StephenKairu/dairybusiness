@@ -1,12 +1,12 @@
-*{
+/**{
     padding: 0;
     margin: 0;
-}
+}*/
 
 body{
     background-color: aqua;
 }
-.container {
+/*.container {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -16,12 +16,23 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-}
+}*/
 .section1 {
     margin-top: 1%;
     margin-left: 11%;
 }
-
+.section1 img{
+    width: 33.33%;
+}
+.section1head {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section-1-images {
+    display: flex;
+    flex-direction: row;
+}
 .section2 {
     margin-top: 8%;
     margin-left: 11%;
@@ -35,4 +46,10 @@ body{
 .section4 {
     margin-top: 8%;
     margin-left: 11%;
+}
+section h2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red;
 }
