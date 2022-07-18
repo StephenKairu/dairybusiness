@@ -25,7 +25,7 @@
 
 ### Installation Process
 
-[Go Back to the top](#DairyBusinesssManagementSystem)
+[Go Back to the top](#KairuDairyBusinesssManagementSystem)
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
@@ -36,7 +36,7 @@
 ## Reference
 * Materialize CSS
 
-[Go Back to the top](#DairyBusinesssManagementSystem)
+[Go Back to the top](#KairuDairyBusinesssManagementSystem)
 
 ## Licence
 
@@ -62,7 +62,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#DairyBusinesssManagementSystem)
+[Go Back to the top](#KairuDairyBusinesssManagementSystem)
 
 ## Authors Info
 
@@ -70,4 +70,4 @@ Email - [Stephen Kairu](kairunjoroge1@gmail.com)
 
 Linked - [Stephen Kairu](https://www.linkedin.com/in/stephen-kairu-54a4bb17a/)
 
-[Go Back to the top](#DairyBusinesssManagementSystem)
+[Go Back to the top](#KairuDairyBusinesssManagementSystem)

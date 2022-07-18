@@ -6,17 +6,7 @@
 body{
     background-color: aqua;
 }
-/*.container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}*/
+
 #navbar {
     background-color: black;
     position:fixed;
@@ -38,10 +28,11 @@ body{
 }
 section {
     margin-right: 2%;
+    
 }
 .section1 {
-    margin-top: 1%;
-    margin-left: 11%;
+    margin-top: 7%;
+    margin-left: 6%;
 }
 .section1 img{
     width: 33.33%;
@@ -57,21 +48,22 @@ section {
 }
 .section2 {
     margin-top: 8%;
-    margin-left: 11%;
+    margin-left: 6%;
 }
 
 .section3 {
     margin-top: 8%;
-    margin-left: 11%;
+    margin-left: 6%;
 }
 
 .section4 {
     margin-top: 8%;
-    margin-left: 11%;
+    margin-left: 6%;
 }
 section h2 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: red;
+    color: black;
+    
 }
