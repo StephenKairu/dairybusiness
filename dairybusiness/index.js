@@ -54,6 +54,6 @@ function monthlyIncome() {
     let novemberIncome= november*totalDaily;
     let decemberIncome= december*totalDaily;
 
-    console.log("Your income for January is " + januaryIncome\n + "Your income for February is" +februaryIncome\n+ 
+    console.log("Your income for January is " + januaryIncome\n + "Your income for February is" +februaryIncome\n+ "Your income for march"
     )
 }
